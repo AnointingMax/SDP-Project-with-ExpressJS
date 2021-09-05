@@ -1,4 +1,4 @@
-# SDP-Project-with_ExpressJS
+# SDP-Project-with-ExpressJS
 SDP project re-done with ExpressJs framework
 
 A redo of my SDP project (at least tthe backend) with ExpressJs
